@@ -1,6 +1,6 @@
 # Awesome-Cloud-Telephony-PBX-Integration
 
-# Top Cloud Telephony & PBX Integration Ecosystem
+## Top Cloud Telephony & PBX Integration Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Unified Communications, Cloud PBX & Programmable Voice Infrastructure*  
