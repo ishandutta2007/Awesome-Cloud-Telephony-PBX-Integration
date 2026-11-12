@@ -78,9 +78,9 @@ The table below highlights industry-leading Cloud PBX and Unified Communications
 
 For system administrators, telecom engineers, and DevOps teams seeking complete data sovereignty, zero per-seat licensing fees, and self-hosted high-throughput telecom infrastructure.
 
-The projects below are sorted in descending order by GitHub Star counts:
+The projects below are sorted in descending order by GitHub Stars_Counts:
 
-| Project | Star Badge | Category / Focus | Description |
+| Project | Stars_Badge | Category / Focus | Description |
 |---|---|---|---|
 | **[Jitsi Meet](https://github.com/jitsi/jitsi-meet)** | [![Stars](https://img.shields.io/github/stars/jitsi/jitsi-meet?style=social&color=white)](https://github.com/jitsi/jitsi-meet/stargazers) | Video Conferencing & WebRTC PBX Gateway | 100% open-source WebRTC video conferencing platform supporting SIP phone dial-in and dial-out via Jigasi integration. |
 | **[LiveKit](https://github.com/livekit/livekit)** | [![Stars](https://img.shields.io/github/stars/livekit/livekit?style=social&color=white)](https://github.com/livekit/livekit/stargazers) | Programmable Voice, Video & SIP Stack | End-to-end WebRTC and SIP stack for building real-time audio, video, and AI voice agents with native SIP telephony bridging. |
@@ -117,7 +117,7 @@ We welcome additions, updates, and corrections from the VoIP, UCaaS, and open-so
 
 1. 🍴 **Fork** this repository.
 2. 🌿 **Create a branch**: `git checkout -b feature/add-new-telephony-tool`.
-3. 📝 **Add or edit entries**: Ensure entries follow the existing tabular format with specific pricing/trial details, accurate company valuation, and star counts.
+3. 📝 **Add or edit entries**: Ensure entries follow the existing tabular format with specific pricing/trial details, accurate company valuation, and Stars_Counts.
 4. 🚀 **Commit & Push**: Submit a concise Pull Request describing the tool and its ecosystem relevance.
 
 ---
