@@ -78,7 +78,7 @@ The table below highlights industry-leading Cloud PBX and Unified Communications
 
 For system administrators, telecom engineers, and DevOps teams seeking complete data sovereignty, zero per-seat licensing fees, and self-hosted high-throughput telecom infrastructure.
 
-The projects below are sorted in descending order by GitHub Stars_Counts:
+The projects below are sorted in descending order by GitHub_Stars_Counts:
 
 | Project | Stars_Badge | Category / Focus | Description |
 |---|---|---|---|
